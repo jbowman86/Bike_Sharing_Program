@@ -19,7 +19,7 @@ CitiBike Code: [Link to Code](https://github.com/jbowman86/Bike_Sharing_Program/
 
 ## Results
 
-While citizens of Des Moines, Iowa may be different from the populace of New York City, a cursory understanding of the demographics of CitiBike riders may illuminate the investors on who are the user base for bike-sharing programs.  From the data collected, more than 3/4 of the users are classified as Subscribers (those who make regular use of the bikes and are a predictable source of income for the program).  Bikeshare program users were also predominantly male, at approximately 5/8 to only about 1/4 female. The remaining 1/8 gender was unknown or undeclared.
+While citizens of Des Moines, Iowa may be different from the populace of New York City, a cursory understanding of the demographics of CitiBike riders may illuminate the investors on who are the user base for bike-sharing programs.  From the data collected, more than 3/4 of the users are classified as Subscribers (those who make regular use of the bikes and are a predictable source of income for the program).  Bikeshare program users were also predominantly male, about 5/8 of total riders.  Females riders made up 1/4 of total bike usage.  The remaining 1/8 gender was unknown or undeclared.
 
 ![](https://github.com/jbowman86/Bike_Sharing_Program/blob/be8fce428c4b8e4022c002ad7abf5cc1a634aba3/Images/NYC_Starting_Location.png)
 
