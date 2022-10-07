@@ -27,7 +27,7 @@ The above map displays the bike stations from which recorded bike trips started.
 
 ![](https://github.com/jbowman86/Bike_Sharing_Program/blob/be8fce428c4b8e4022c002ad7abf5cc1a634aba3/Images/NYC_Ending_Location.png)
 
-The above map displays the bike stations from which recorded bike trips ended. The size of the circles and darkness of the red indicate the relative number of trips started at those locations. Similar to the starting locations, most bike rides ended in commercial districts and bike usage was lower in areas with less densely populated areas.  
+The above map displays the bike stations from which recorded bike trips ended. The size of the circles and darkness of the red indicate the relative number of trips started at those locations. Similar to the starting locations, most bike rides ended in commercial districts and bike usage was lower in areas with lower population densities.
 
 ![](https://github.com/jbowman86/Bike_Sharing_Program/blob/ec964eb9723ea10f462aabe3b45768061943a633/Images/NYC_Peaki_Riding_Hours.png)
 
