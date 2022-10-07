@@ -64,7 +64,7 @@ In conclusion, bike-sharing programs are utilized more often in busy metropolita
 
 Additional analyses that should be completed in order to gain further insight into the bike-sharing user base are:
 
-- Complete analysis on trip starting and ending locations during morning and evening rush hour time-windows.  This can help display the flow of traffic between neighbourhoods at peak hours.
+- Complete analysis on trip starting and ending locations during morning and evening rush hour time-windows.  This can help determine which bike stations are utilized more often; thereby, ensuring sufficient supply of bikes to meet demand as well as timing repairs/maintenance when deemed appropriate.
 - Complete analysis of the average trip duration, by birth year and gender in order to explore if there was any difference in male, female or un-gendered riders as they age.
 
 
