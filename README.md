@@ -31,7 +31,7 @@ The above map displays the bike stations from which recorded bike trips ended. T
 
 ![](https://github.com/jbowman86/Bike_Sharing_Program/blob/ec964eb9723ea10f462aabe3b45768061943a633/Images/NYC_Peaki_Riding_Hours.png)
 
-The bar graph displayed above depicts the number of bike rides started during each hour of the day, totalled across the entire month of August. We can see peak usage during evening rush hour (between 5 PM and 7 PM).  The time of lowest usage was between 2 AM and 5AM.  It is during this period of time that bike repairs and maintenance should be completed as it will have the lowest impact on user base satisfaction.
+The bar graph displayed above depicts the number of bike rides started during each hour of the day, totalled across the entire month of August. We can see peak usage during evening rush hour (between 5 PM and 7 PM).  The time of lowest usage was between 2 AM and 5 AM.  It is during this period of time that bike repairs and maintenance should be completed as it will have the lowest impact on user base satisfaction.
 
 ![](https://github.com/jbowman86/Bike_Sharing_Program/blob/ec964eb9723ea10f462aabe3b45768061943a633/Images/NYC_Bike_Repairs.png)
 
@@ -52,7 +52,7 @@ A heatmap showing weekly usage patterns is displayed above. Heaviest usage of th
 
 ![](https://github.com/jbowman86/Bike_Sharing_Program/blob/ec964eb9723ea10f462aabe3b45768061943a633/Images/NYC_Trips_per_Weekday_Gender_per_Hour.png)
 
-A heatmap displaying the usage of the bike-sharing program categorized by weekday and gender.  The heatmap findings were consistent with other analyses completed.  Males were shown to have greater usage of the program compared to females.  For both genders, the heaviest usage of the bike-sharing was during commuter times (between 7 AM to 9AM and between 5PM and 7PM) with weekdays having heavier usage than on weekends.  
+A heatmap displaying the usage of the bike-sharing program categorized by weekday and gender.  The heatmap findings were consistent with other analyses completed.  Males were shown to have greater usage of the program compared to females.  For both genders, the heaviest usage of the bike-sharing was during commuter times (between 7 AM to 9 AM and between 5 PM and 7 PM) with weekdays having heavier usage than on weekends.  
 
 ![](https://github.com/jbowman86/Bike_Sharing_Program/blob/ec964eb9723ea10f462aabe3b45768061943a633/Images/NYC_trips_user_day_gender.png)
 
