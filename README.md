@@ -11,7 +11,7 @@ The aim of this project was to analyze bike-sharing data from CitiBike in New Yo
 
 The Tableau story for a New York bike-sharing program can be viewed via the following link:
 
-LINK TO TABLEAU STORY
+LINK TO TABLEAU STORY: [Bike-Sharing Story](https://public.tableau.com/app/profile/jbowman1086/viz/Bike-SharingAnalysis_16650956680760/Bike-SharingStory?publish=yes)
 
 The code for conversion of tripduration and gender variables into understandable forms can be seen by clicking the link below:
 
