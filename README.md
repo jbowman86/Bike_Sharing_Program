@@ -21,9 +21,11 @@ CitiBike Code: [Link to Code](https://github.com/jbowman86/Bike_Sharing_Program/
 
 While citizens of Des Moines, Iowa may be different from the populace of New York City, a cursory understanding of the demographics of CitiBike riders may illuminate the investors on who are the user base for bike-sharing programs.  From the data collected, more than 3/4 of the users are classified as Subscribers (those who make regular use of the bikes and are a predictable source of income for the program).  Bikeshare program users were also predominantly male, at approximately 5/8 to only about 1/4 female. The remaining 1/8 gender was unknown or undeclared.
 
-LINK TO IMAGE OF TOP STARTING LOCATIONS
+![](https://github.com/jbowman86/Bike_Sharing_Program/blob/be8fce428c4b8e4022c002ad7abf5cc1a634aba3/Images/NYC_Starting_Location.png)
 
 The above map displays the bike stations from which recorded bike trips started. The size of the circles and darkness of the blue indicate the relative number of trips started at those locations. It is apparent that the majority of the bike trips originate in the commercial districts principally lower Manhattan.  Bike usage is lower in the less densely packed surrounding neighbourhoods. 
+
+![](https://github.com/jbowman86/Bike_Sharing_Program/blob/be8fce428c4b8e4022c002ad7abf5cc1a634aba3/Images/NYC_Ending_Location.png)
 
 LINK TO IMAGE OF TOP ENDING LOCATIONS
 
