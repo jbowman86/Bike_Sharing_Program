@@ -15,8 +15,7 @@ LINK TO TABLEAU STORY
 
 The code for conversion of tripduration and gender variables into understandable forms can be seen by clicking the link below:
 
-INSERRT LINK TO CODE FOR VARIABLE CONVERSION (PANDAS STUFF)
-
+CitiBike Code: [Link to Code](https://github.com/jbowman86/Bike_Sharing_Program/blob/b115cd6a194e53e2cb355f05b3027c4f48acf81f/NYC_CitiBike_Challenge.ipynb)
 
 ## Results
 
