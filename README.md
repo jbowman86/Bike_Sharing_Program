@@ -31,11 +31,11 @@ The above map displays the bike stations from which recorded bike trips ended. T
 
 ![](https://github.com/jbowman86/Bike_Sharing_Program/blob/ec964eb9723ea10f462aabe3b45768061943a633/Images/NYC_Peaki_Riding_Hours.png)
 
-The bar graph displayed above depicts the number of bike rides started during each hour of the day, totalled across the entire month of August. We can see peak usage during evening rush hour (between 5-7 PM).  The time of lowest usage was between 2 AM and 5AM.  It is during this period of time that bike repairs and maintenance should be completed as it will have the lowest impact on user base satisfaction.
+The bar graph displayed above depicts the number of bike rides started during each hour of the day, totalled across the entire month of August. We can see peak usage during evening rush hour (between 5 PM and 7 PM).  The time of lowest usage was between 2 AM and 5AM.  It is during this period of time that bike repairs and maintenance should be completed as it will have the lowest impact on user base satisfaction.
 
 ![](https://github.com/jbowman86/Bike_Sharing_Program/blob/ec964eb9723ea10f462aabe3b45768061943a633/Images/NYC_Bike_Repairs.png)
 
-The stepped-level heatmap seen above can be used to determine which bikes get heavy usage and may be in need of repairs/maintenance.  This heatmap shows each individual bike in the program, sized, colored, and sorted by its degree of usage during the month.  Red dots indicate nikes that are classified as heavy use and most likely needing repairs or potential replacement.  Green dots display the bikes which are used less often and repairs can probably be delayed.
+The stepped-level heatmap seen above can be used to determine which bikes get heavy usage and may be in need of repairs/maintenance.  This heatmap shows each individual bike in the program, sized, colored, and sorted by its degree of usage during the month.  Red dots indicate bikes that are classified as heavy use and most likely needing repairs or potential replacement.  Green dots display the bikes which are used less often and repairs can probably be delayed.
 
 ![](https://github.com/jbowman86/Bike_Sharing_Program/blob/ec964eb9723ea10f462aabe3b45768061943a633/Images/NYC_trip_duration.png)
 
